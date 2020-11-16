@@ -3,10 +3,10 @@
 #
 
 # Name of your site (displayed in the header)
-name: Alexayla
+name: Blog de Tecnologías Web
 
 # Short bio or description (displayed in the header)
-description: Junior Web Developer
+description: Web Developer
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
@@ -21,7 +21,7 @@ footer-links:
   email: alex2020aylaweb@gmail.com
   facebook:
   flickr:
-  github: barryclark/jekyll-now
+  github: https://github.com/alex2020aylaweb/alex2020aylaweb.github.io
   instagram:
   linkedin:
   pinterest:
